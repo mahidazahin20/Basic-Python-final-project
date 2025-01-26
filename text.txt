@@ -1,0 +1,19 @@
+Requirements-
+1.input employee id for marking
+2.attendance display
+3.save previous data
+4.validate id formate(first three letter of name+id number)
+
+Steps to implement-
+1.Create a employee class-store employee details(id,name,attendance)
+2.ask the USER ID
+3.check if the ID is valid
+4.if matched save the attendance in specific date
+5.if dont match show "Invalid" text
+6.save
+
+showing result-
+-entry
+-Attendance marking
+-view previous attendance
+-exit
